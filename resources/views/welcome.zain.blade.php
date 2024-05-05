@@ -14,7 +14,7 @@
         <img class="img-thumbnail" src="{{ Vite::asset('resources/images/Sky.jpeg') }}" alt="image">
         <div class="col-md-2 offset-md-5 mt-4">
             <div class="d-grid gap-2">
-                <a class="btn btn-dark" href="{{route('home')}}">PENA</a>
+                <a class="btn btn-dark" href="{{route('home')}}">Zain Gibran</a>
             </div>
         </div>
     </div>
